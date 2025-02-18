@@ -1,4 +1,4 @@
-# food_recipe
+# food-recipe
 
 A new Flutter project.
 
